@@ -1,0 +1,10 @@
+data/*
+!data/.keep
+
+model/*
+!model/.keep
+
+__pycache__/
+*.py[cod]
+
+data2vec-aqc/*
