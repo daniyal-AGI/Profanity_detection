@@ -3,7 +3,7 @@ if __name__=='__main__':
     
     #config
     CONFIGURATION= {'LEARNING_RATE': 0.001,
-                    'EPOCHS': 5,
+                    'EPOCHS': 50,
                     'ADAM_BETAS': (0.9, 0.999),
                     'ADAM_EPS': 1e-07,
                     'SEED': 42,
